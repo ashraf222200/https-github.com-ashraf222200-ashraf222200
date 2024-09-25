@@ -1,6 +1,6 @@
 - hosts: all
   vars:
-   name: batch-13
+   name: batch-16
   tasks:
    - name: Ansible Basic Variable Example
      debug:
